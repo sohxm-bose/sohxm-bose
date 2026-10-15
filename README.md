@@ -1,32 +1,8 @@
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="assets/dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="assets/light.svg"
-  />
-  <img
-    alt="Animated developer profile banner"
-    src="assets/dark.svg"
-    width="100%"
-  />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/light.svg">
+  <img src="./assets/dark.svg" alt="Animated developer profile banner" width="100%">
 </picture>
+
 ## Hi there 👋
-
-<!--
-**sohxm-bose/sohxm-bose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
