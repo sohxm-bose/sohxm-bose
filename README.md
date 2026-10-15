@@ -5,4 +5,4 @@
   <img src="./assets/dark.svg" alt="Animated developer profile banner" width="100%">
 </picture>
 
-## Hi there 👋
+
